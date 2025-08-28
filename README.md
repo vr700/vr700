@@ -27,14 +27,10 @@ const mariano = new Developer("Mariano");
 mariano.work();
 ````
 
-<br/>
-
 ## About me 🍕
 
 Passionate about **software engineering**, with a focus on creating clear, efficient, and functionally designed solutions.
 I explore web development, visual design, and 3D modeling, always with the intention of maintaining a clean and professional style.
-
-<br/>
 
 ## Tech Stack 📀
 
@@ -52,8 +48,6 @@ I explore web development, visual design, and 3D modeling, always with the inten
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge\&logo=blender\&logoColor=white)
-
-<br/>
 
 ## Contact Me 📟
 
