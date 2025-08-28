@@ -8,16 +8,14 @@
 class Developer {
   constructor(name) {
     this.name = name;
-    this.passions = ["coding", "music", "3D", "design"];
+    this.passions = ["code", "music", "design"];
     this.status = "alwaysLearning";
   }
 
   work() {
-    while (this.status === "alwaysLearning") {
-      this.writeCode();
-      this.listenToMusic();
-      this.exploreIdeas();
-    }
+    this.writeCode();
+    this.listenToMusic();
+    this.exploreIdeas();
   }
 
   writeCode() {}
