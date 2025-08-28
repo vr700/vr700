@@ -60,18 +60,17 @@ I explore web development, visual design, and 3D modeling, always with the inten
 ## Contact Me 📟
 
 <p align="center">
-
-<a href= "https://www.instagram.com/vr700/?hl=es">
+<a href="https://www.instagram.com/vr700_official/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.tiktok.com/@vr700_official" >
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
+<a href="https://www.linkedin.com/in/mariano-moises-oblitas-davila-7b5738328">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://www.twitch.tv/vr700" >
-  <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
+<a href="https://www.twitch.tv/vr700">
+    <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
 </a>
-<a href="https://www.youtube.com/@vr700">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
+<a href="https://www.youtube.com/@VRgames700">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
 </p>
 
